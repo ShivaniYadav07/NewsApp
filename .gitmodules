@@ -1,0 +1,3 @@
+[submodule "NewsApp"]
+	path = NewsApp
+	url = https://github.com/ShivaniYadav07/NewsApp
